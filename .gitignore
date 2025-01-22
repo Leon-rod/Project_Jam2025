@@ -1,33 +1,33 @@
-# Unity generated folders
-[Ll]ibrary/
-[Tt]emp/
-Obj/
-[Bb]uild/
-[Bb]uilds/
+# Unity generated folders dentro de Project_Jam2025J
+Project_Jam2025J/[Ll]ibrary/
+Project_Jam2025J/[Tt]emp/
+Project_Jam2025J/Obj/
+Project_Jam2025J/[Bb]uild/
+Project_Jam2025J/[Bb]uilds/
 
-# User-specific files
-[Dd]ebug/
-[Dd]ebugFiles/
-.idea/
-.vscode/
+# Archivos específicos del usuario dentro de Project_Jam2025J
+Project_Jam2025J/[Dd]ebug/
+Project_Jam2025J/[Dd]ebugFiles/
+Project_Jam2025J/.idea/
+Project_Jam2025J/.vscode/
 
-# OS generated files
-.DS_Store
-Thumbs.db
+# Archivos generados por el sistema operativo
+Project_Jam2025J/.DS_Store
+Project_Jam2025J/Thumbs.db
 
-# User-specific files (Windows)
-*.user
-*.userprefs
+# Archivos específicos del usuario (Windows)
+Project_Jam2025J/*.user
+Project_Jam2025J/*.userprefs
 
-# User-specific files (Mac)
-.idea/
+# Archivos específicos del usuario (Mac)
+Project_Jam2025J/.idea/
 
-# JetBrains Rider files
-.idea/
+# Archivos de JetBrains Rider dentro de Project_Jam2025J
+Project_Jam2025J/.idea/
 
-# Unity Package Manager files
-Packages/manifest.json
-Packages/packages-lock.json
+# Archivos de Package Manager dentro de Project_Jam2025J
+Project_Jam2025J/Packages/manifest.json
+Project_Jam2025J/Packages/packages-lock.json
 
-# Logs
-*.log
+# Archivos de logs dentro de Project_Jam2025J
+Project_Jam2025J/*.log
