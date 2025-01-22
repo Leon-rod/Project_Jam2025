@@ -1,0 +1,33 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+Obj/
+[Bb]uild/
+[Bb]uilds/
+
+# User-specific files
+[Dd]ebug/
+[Dd]ebugFiles/
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files (Windows)
+*.user
+*.userprefs
+
+# User-specific files (Mac)
+.idea/
+
+# JetBrains Rider files
+.idea/
+
+# Unity Package Manager files
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Logs
+*.log
