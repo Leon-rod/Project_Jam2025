@@ -31,3 +31,50 @@ Project_Jam2025J/Packages/packages-lock.json
 
 # Archivos de logs dentro de Project_Jam2025J
 Project_Jam2025J/*.log
+
+# Ignorar archivos y carpetas generados por Unity
+
+# Archivos de configuración de Unity
+[Dd]ebug/
+[Dd]ebugLog/
+[Dd]iagnostics/
+
+# Archivos de solución y proyecto
+.idea/
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.userprefs
+
+# Archivos de librerías y cachés
+[Ll]ibrary/
+[Ll]ibrary/ScriptAssemblies/
+[Ll]ibrary/ScriptableObjects/
+[Ll]ibrary/ShaderCache/
+[Ll]ibrary/AssetImportState/
+[Ll]ibrary/Metadata/
+[Ll]ibrary/PlayerDataCache/
+
+# Archivos de Build
+[Tt]emp/
+[Tt]emp/Build/
+[Tt]emp/BuildPlayer/
+
+# Ignorar carpetas de configuración de los proyectos Unity (Burbuja y MovementTest)
+Burbuja/Library/
+Burbuja/Temp/
+Burbuja/Build/
+Burbuja/obj/
+
+MovementTest/Library/
+MovementTest/Temp/
+MovementTest/Build/
+MovementTest/obj/
+
+# Otros archivos no necesarios de Unity
+*.apk
+*.aab
+*.swp
+*.suo
+*.user
